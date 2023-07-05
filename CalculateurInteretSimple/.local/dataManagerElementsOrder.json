@@ -1,0 +1,39 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "interet&Sequence_1",
+        "gainFinaux&Sequence_1",
+        "periode&Sequence_1",
+        "montantDepotInit&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CalculInteret.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "taux_par_an&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_interet",
+        "in_periode",
+        "in_montant"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
