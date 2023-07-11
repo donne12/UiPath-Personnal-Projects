@@ -1,0 +1,26 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SetData_RPAChallenge.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "RPAChallengeSiteAddress&Sequence_1",
+        "TheExcelFile&Sequence_1",
+        "NamesDataTable&Sequence_1",
+        "FirstName&Sequence_3",
+        "LastName&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

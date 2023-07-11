@@ -1,0 +1,9 @@
+{
+  "Tags": [
+    {
+      "Key": "excelAddin"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
