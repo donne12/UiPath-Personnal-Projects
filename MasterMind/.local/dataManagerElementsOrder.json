@@ -12,10 +12,13 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "resultString&Sequence_1",
+        "correct&Sequence_1",
+        "result&Sequence_3",
         "cpt&Sequence_1",
-        "variable1&Sequence_1",
+        "saisieUser&Sequence_1",
+        "chiffre&Sequence_1",
         "tours&Sequence_1",
-        "vraiNombre&Sequence_1",
         "userList&Sequence_1",
         "computerList&Sequence_1"
       ],
